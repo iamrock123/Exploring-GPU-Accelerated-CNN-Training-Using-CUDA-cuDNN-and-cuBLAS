@@ -327,7 +327,7 @@ make
 
 執行成功會出現預測的結果：
 
-![image](../readme_pic/predict.png)
+![image](./readme_pic/predict.png)
 
 ## 小結
 
